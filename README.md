@@ -19,3 +19,4 @@ https://arxiv.org/abs/2104.08527
 
 ## Output
 
+https://github.com/camenduru/PARE-colab/assets/54370274/ae9019ee-3792-41c5-9201-b82df00876fc

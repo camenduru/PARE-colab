@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PARE-colab/blob/main/PARE_colab.ipynb) | VIBE_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PARE-colab/blob/main/PARE_colab.ipynb) | PARE_colab
 
 ## Main Repo
 https://github.com/mkocabas/PARE
